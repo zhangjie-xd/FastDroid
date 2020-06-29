@@ -25,4 +25,4 @@ There are several options with which you can configure a tradeoff between perfor
 
 ## Contact
 
-If you experience any issues, Please contact us at zhangjie@xidian.edu.cn
+If you experience any issues, Please contact us
